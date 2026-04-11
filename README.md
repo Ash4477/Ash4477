@@ -3,7 +3,7 @@
 🎓 I hold a BSCS degree from COMSATS University Islamabad<br>
 🏅 I recently completed the Bytewise Fellowship Program as a **Bronze Fellow**<br>
 🎗️ I'm a part of TheOdinProject community and have solved **100+ LeetCode problems**<br>
-🌱 I’m currently exploring **Information Security** and learning beginner **French**<br>
+🌱 I’m currently exploring **System Design, GenAI, Microservices** and learning beginner **Japanese**<br>
 ⚡ Fun fact: When I'm not coding or deploying AWS pipelines, you can find me playing **story-based games**, **CS2**, and **FIFA**!
 
 ## 🌐 Socials:
