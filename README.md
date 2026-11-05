@@ -72,4 +72,4 @@ The rest of my repositories, from Java games to The Odin Project coursework, are
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/adil-feroze-242a99253/) · [itch.io](https://itch.io/profile/adil-feroze) · [Instagram](https://www.instagram.com/adil_feroze/) · [LeetCode](https://leetcode.com/Ash4477/)
+[LinkedIn](https://www.linkedin.com/in/adil-feroze-242a99253/) · [itch.io](https://itch.io/profile/adil-feroze) · [Instagram](https://www.instagram.com/adil_feroze/) · [LeetCode](https://leetcode.com/u/adilferoze321/)
