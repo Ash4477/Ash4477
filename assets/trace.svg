@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Adil Feroze, full-stack product engineer</title>
+  <desc id="d">A yellow packet travels from a client to an edge function, then to Postgres, and returns 200 OK.</desc>
+  <rect width="1000" height="320" rx="18" fill="#170d33"/>
+
+  <!-- tile motif, top right -->
+  <g>
+    <rect x="760" y="36" width="64" height="64" fill="#cdbdff"/>
+    <circle cx="792" cy="68" r="26" fill="#f4e04d"/>
+    <rect x="824" y="36" width="64" height="64" fill="#0f9d8a"/>
+    <path d="M824 100 A64 64 0 0 1 888 36 V100 Z" fill="#2b1458"/>
+    <rect x="888" y="36" width="64" height="64" fill="#f4e04d"/>
+    <path d="M888 100 a32 32 0 0 1 64 0 Z" fill="#cdbdff"/>
+  </g>
+
+  <text x="56" y="92" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="54" font-weight="900" fill="#f3efff" letter-spacing="-1">Adil Feroze</text>
+  <text x="58" y="128" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#cdbdff">Full-stack product engineer, Islamabad</text>
+
+  <!-- the wire -->
+  <line x1="100" y1="212" x2="900" y2="212" stroke="#f3efff" stroke-opacity=".28" stroke-width="3"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#f3efff" text-anchor="middle">
+    <text x="100" y="182">client</text>
+    <text x="367" y="182">edge function</text>
+    <text x="633" y="182">postgres</text>
+    <text x="900" y="182">200 OK</text>
+  </g>
+
+  <!-- nodes light up while the packet is there -->
+  <circle cx="100" cy="212" r="11" fill="#f4e04d" stroke="#f3efff" stroke-width="2">
+    <animate attributeName="fill" calcMode="discrete" values="#f4e04d;#3b2670" keyTimes="0;.28" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="367" cy="212" r="11" fill="#3b2670" stroke="#f3efff" stroke-width="2">
+    <animate attributeName="fill" calcMode="discrete" values="#3b2670;#f4e04d;#3b2670" keyTimes="0;.28;.58" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="633" cy="212" r="11" fill="#3b2670" stroke="#f3efff" stroke-width="2">
+    <animate attributeName="fill" calcMode="discrete" values="#3b2670;#f4e04d;#3b2670" keyTimes="0;.58;.88" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="212" r="11" fill="#3b2670" stroke="#f3efff" stroke-width="2">
+    <animate attributeName="fill" calcMode="discrete" values="#3b2670;#f4e04d" keyTimes="0;.88" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- the packet -->
+  <circle cx="100" cy="212" r="9" fill="#f4e04d">
+    <animate attributeName="cx" values="100;100;367;367;633;633;900;900" keyTimes="0;.1;.28;.4;.58;.7;.88;1" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- log line under the wire -->
+  <g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="17" fill="#f4e04d" text-anchor="middle">
+    <text x="500" y="272" opacity="1">POST /api/claims   sent from the client
+      <animate attributeName="opacity" calcMode="discrete" values="1;0" keyTimes="0;.28" dur="8s" repeatCount="indefinite"/></text>
+    <text x="500" y="272" opacity="0">edge function   claim validated   41ms
+      <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;.28;.58" dur="8s" repeatCount="indefinite"/></text>
+    <text x="500" y="272" opacity="0">BEGIN; SELECT ... FOR UPDATE; COMMIT   12ms
+      <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;.58;.88" dur="8s" repeatCount="indefinite"/></text>
+    <text x="500" y="272" opacity="0">200 OK   total 118ms
+      <animate attributeName="opacity" calcMode="discrete" values="0;1" keyTimes="0;.88" dur="8s" repeatCount="indefinite"/></text>
+  </g>
+</svg>

@@ -1,20 +1,75 @@
-# 💫 About Me:
-🔭 I’m currently working as an **Associate Software Engineer** at **Devsinc**<br>
-🎓 I hold a BSCS degree from COMSATS University Islamabad<br>
-🏅 I recently completed the Bytewise Fellowship Program as a **Bronze Fellow**<br>
-🎗️ I'm a part of TheOdinProject community and have solved **100+ LeetCode problems**<br>
-🌱 I’m currently exploring **System Design, GenAI, Microservices** and learning beginner **Japanese**<br>
-⚡ Fun fact: When I'm not coding or deploying AWS pipelines, you can find me playing **story-based games**, **CS2**, and **FIFA**!
+<p align="center">
+  <img src="assets/trace.svg" alt="Animated request trace: a request travels from a client to an edge function, then Postgres, and returns 200 OK" width="100%">
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adil_feroze/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-feroze-242a99253/) 
+I build the parts of a product that have to be right: the money, the permissions, and the message that arrives on time.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Stripe](https://img.shields.io/badge/Stripe-%23008CDD.svg?style=for-the-badge&logo=Stripe&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I'm an Associate Software Engineer at **Devsinc**, working on **BB Edu**, a two-sided marketplace that staffs educators and has 2,000+ active users. React and Next.js on the front, TypeScript and Supabase Edge Functions in the middle, PostgreSQL underneath.
 
-# 📊 GitHub & LeetCode Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ash4477&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ash4477&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash4477&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+| | |
+|---|---|
+| **Based in** | Islamabad, Pakistan |
+| **Working on** | Wallets, billing, payroll and notifications on a live marketplace |
+| **Learning** | System design, GenAI, microservices, and beginner Japanese |
+| **Studied** | BS in Computer Science, COMSATS University Islamabad (CGPA 3.61) |
+| **Off the clock** | Story-based games, CS2 and FIFA |
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/adilferoze321?theme=dark&font=Syne&ext=heatmap)](https://leetcode.com/Ash4477/)
+## Follow one request
+
+A teacher taps "Claim shift". This is what happens next, and which part I built.
+
+| Hop | What I built | Result |
+|---|---|---|
+| **Client** | Next.js and React Native (Expo) apps on one product | Features owned from ticket to release |
+| **Edge function** | Supabase Edge Functions in TypeScript, plus webhook pipelines for Twilio SMS, Resend email and Expo push | Claim latency down about 30%, 5+ hours of manual work a week removed by cron jobs |
+| **Postgres** | Wallet and billing services with transaction locks, indexed PL/pgSQL procedures, Row-Level Security on 20+ views and tables | 35–50% faster on feeds with 10,000+ records, no double spending |
+| **Side effects** | Payroll and invoicing with seniority tiers, surge multipliers and weekly ledger exports | 85%+ test coverage, automated CI/CD |
+
+<details>
+<summary><b>Run the failure: two requests, one budget</b></summary>
+
+<br>
+
+Two requests each try to spend 70 from a budget of 100. This is an invented example, not code from my work.
+
+```sql
+BEGIN;
+-- the second request waits on this line until the first one commits
+SELECT balance FROM wallets WHERE id = $1 FOR UPDATE;
+
+UPDATE wallets
+SET balance = balance - 70
+WHERE id = $1 AND balance >= 70;
+COMMIT;
+```
+
+Without `FOR UPDATE`, both requests read a balance of 100, both pass the check, and 140 gets spent. With it, the second request waits, sees the real balance of 30, and is rejected.
+
+</details>
+
+## Public work
+
+| Project | What it is | Built with |
+|---|---|---|
+| [**Secure Nest**](https://github.com/Ash4477/fyp_web) | Smart residential community platform: [admin dashboard](https://fyp-web-nine-ochre.vercel.app) with 12+ modules, [Flutter app](https://github.com/Ash4477/fyp_mobile) and [backend](https://github.com/Ash4477/fyp_backend). My final year project. | Next.js 15, React 19, TypeScript, Flutter, Express, Socket.IO, AWS |
+| [**Multivendor e-commerce**](https://github.com/Ash4477/multivendor-ecomm-proj) | Marketplace with admin, vendor and customer roles, real-time orders and chat, Stripe and PayPal. Deploys to EC2 through GitHub Actions. | React, Vite, Express, MongoDB, Socket.IO, Docker |
+| [**Log Analyzer**](https://github.com/Ash4477/log-analyzer) | A streaming CLI parser for huge log files and a dashboard for the results. | TypeScript, Node.js, React, Recharts, Vitest |
+| [**Scholar App backend**](https://github.com/Faze789/scholar_app) | Flask API that predicts admissions for 9 Pakistani universities and matches scholarships. A collaboration. | Python, Flask, scikit-learn, TensorFlow |
+| [**Bytewise Fellowship**](https://github.com/Ash4477/bytewise-fellowship) | Everything from the MERN track, where I finished as a Bronze Fellow. | JavaScript, MERN |
+| [**15 Days of LeetCode**](https://github.com/Ash4477/15-Days-Of-Leetcode-Challenge) | Java solutions, one folder per problem. 100+ problems solved overall. | Java |
+
+The rest of my repositories, from Java games to The Odin Project coursework, are on my [repositories page](https://github.com/Ash4477?tab=repositories).
+
+## Toolbox
+
+| | |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Python, Java, Dart, C++ |
+| **Frontend** | React, Next.js, React Native, Expo, Redux, TanStack Query, Tailwind CSS, Flutter |
+| **Backend and data** | Node.js, Express, Socket.IO, Supabase, PostgreSQL, MongoDB, MySQL, Firebase |
+| **Cloud and DevOps** | AWS, Docker, GitHub Actions, Kubernetes, Jenkins, Vercel |
+| **Testing and tools** | Jest, Vitest, React Testing Library, Deno, Sentry, PostHog, Stripe, Twilio, Resend |
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/adil-feroze-242a99253/) · [itch.io](https://itch.io/profile/adil-feroze) · [Instagram](https://www.instagram.com/adil_feroze/) · [LeetCode](https://leetcode.com/Ash4477/)
