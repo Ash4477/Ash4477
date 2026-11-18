@@ -6,6 +6,8 @@ I build the parts of a product that have to be right: the money, the permissions
 
 I'm an Associate Software Engineer at **Devsinc**, working on **BB Edu**, a two-sided marketplace that staffs educators and has 2,000+ active users. React and Next.js on the front, TypeScript and Supabase Edge Functions in the middle, PostgreSQL underneath.
 
+**[See my portfolio](https://ash4477.github.io/adil-feroze-portfolio/)**, including clips of my Odin Project apps in use.
+
 | | |
 |---|---|
 | **Based in** | Islamabad, Pakistan |
@@ -58,7 +60,7 @@ Without `FOR UPDATE`, both requests read a balance of 100, both pass the check, 
 | [**Bytewise Fellowship**](https://github.com/Ash4477/bytewise-fellowship) | Everything from the MERN track, where I finished as a Bronze Fellow. | JavaScript, MERN |
 | [**15 Days of LeetCode**](https://github.com/Ash4477/15-Days-Of-Leetcode-Challenge) | Java solutions, one folder per problem. 100+ problems solved overall. | Java |
 
-The rest of my repositories, from Java games to The Odin Project coursework, are on my [repositories page](https://github.com/Ash4477?tab=repositories).
+My Odin Project apps, from a sneaker shop to a memory game, have screenshots and clips in [my portfolio](https://ash4477.github.io/adil-feroze-portfolio/). Everything else is on my [repositories page](https://github.com/Ash4477?tab=repositories).
 
 ## Toolbox
 
@@ -72,4 +74,4 @@ The rest of my repositories, from Java games to The Odin Project coursework, are
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/adil-feroze-242a99253/) · [itch.io](https://itch.io/profile/adil-feroze) · [Instagram](https://www.instagram.com/adil_feroze/) · [LeetCode](https://leetcode.com/u/adilferoze321/)
+[Portfolio](https://ash4477.github.io/adil-feroze-portfolio/) · [LinkedIn](https://www.linkedin.com/in/adil-feroze-242a99253/) · [itch.io](https://itch.io/profile/adil-feroze) · [Instagram](https://www.instagram.com/adil_feroze/) · [LeetCode](https://leetcode.com/u/adilferoze321/)
