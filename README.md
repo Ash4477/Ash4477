@@ -4,14 +4,14 @@
 
 I build the parts of a product that have to be right: the money, the permissions, and the message that arrives on time.
 
-I'm an Associate Software Engineer at **Devsinc**, working on **BB Edu**, a two-sided marketplace that staffs educators and has 2,000+ active users. React and Next.js on the front, TypeScript and Supabase Edge Functions in the middle, PostgreSQL underneath.
+I'm a Software Engineer at **Devsinc**, leading a team of four on a web and native mobile platform for a US-based client, built on Supabase, AWS and Deno Edge Functions. Before that I shipped features on **BB Edu**, a marketplace with 2,000+ active users, and was named Employee of the Quarter twice.
 
 <a href="https://ash4477.github.io/adil-feroze-portfolio/"><img src="assets/btn-portfolio.svg" alt="See my portfolio" height="56"></a>
 
 | | |
 |---|---|
 | **Based in** | Islamabad, Pakistan |
-| **Working on** | Wallets, billing, payroll and notifications on a live marketplace |
+| **Working on** | Leading a team of four on a web and mobile platform |
 | **Learning** | System design, GenAI, microservices, and beginner Japanese |
 | **Studied** | BS in Computer Science, COMSATS University Islamabad (CGPA 3.61) |
 | **Off the clock** | Story-based games, CS2 and FIFA |
@@ -76,7 +76,7 @@ I learned the craft on The Odin Project, from a calculator to React apps with ro
 | [**Multivendor e-commerce**](https://github.com/Ash4477/multivendor-ecomm-proj) | Marketplace with admin, vendor and customer roles, real-time orders and chat, Stripe and PayPal. Deploys to EC2 through GitHub Actions. | React, Vite, Express, MongoDB, Socket.IO, Docker |
 | [**Log Analyzer**](https://github.com/Ash4477/log-analyzer) | A streaming CLI parser for huge log files and a dashboard for the results. | TypeScript, Node.js, React, Recharts, Vitest |
 | [**Scholar App backend**](https://github.com/Faze789/scholar_app) | Flask API that predicts admissions for 9 Pakistani universities and matches scholarships. A collaboration. | Python, Flask, scikit-learn, TensorFlow |
-| [**Bytewise Fellowship**](https://github.com/Ash4477/bytewise-fellowship) | Everything from the MERN track, where I finished as a Bronze Fellow. | JavaScript, MERN |
+| [**Bytewise Fellowship**](https://github.com/Ash4477/bytewise-fellowship) | Everything from the MERN track, where I was named a Top Performer. | JavaScript, MERN |
 | [**15 Days of LeetCode**](https://github.com/Ash4477/15-Days-Of-Leetcode-Challenge) | Java solutions, one folder per problem. 100+ problems solved overall. | Java |
 
 Everything else is on my [repositories page](https://github.com/Ash4477?tab=repositories).
