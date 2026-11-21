@@ -6,7 +6,7 @@ I build the parts of a product that have to be right: the money, the permissions
 
 I'm a Software Engineer at **Devsinc**, leading a team of four on a web and native mobile platform for a US-based client, built on Supabase, AWS and Deno Edge Functions. Before that I shipped features on **BB Edu**, a marketplace with 2,000+ active users, and was named Employee of the Quarter twice.
 
-<a href="https://ash4477.github.io/adil-feroze-portfolio/"><img src="assets/btn-portfolio.svg" alt="See my portfolio" height="56"></a>
+<a href="https://www.adilferoze.tech/"><img src="assets/btn-portfolio.svg" alt="See my portfolio" height="56"></a>
 
 | | |
 |---|---|
